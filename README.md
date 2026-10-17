@@ -12,7 +12,7 @@
 - <img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=%23a78bfa" width="17" height="17" /> I'm studying Software Engineering at Yersin University.
 - <img src="https://api.iconify.design/fa6-solid/lightbulb.svg?color=%23fbbf24" width="17" height="17" /> I'm interested in software development and building useful applications.
 - <img src="https://api.iconify.design/fa6-solid/seedling.svg?color=%2334d399" width="17" height="17" /> I'm continuously learning new technologies and improving my coding skills.
-- <img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=%23fb7185" width="17" height="17" /> My goal is to become a professional Software Developer.
+- <img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=%23fb7185" width="17" height="17" /> My goal is to become a professional business analyst and software developer.
 - <img src="https://api.iconify.design/fa6-solid/location-dot.svg?color=%233399ff" width="17" height="17" /> Vietnam
 
 ### <img src="https://api.iconify.design/fa6-solid/code.svg?color=%233399ff" width="20" height="20" /> Languages and Tools
