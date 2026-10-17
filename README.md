@@ -1,4 +1,4 @@
- <h1 align="center"><img src="https://api.iconify.design/fa6-solid/hand.svg?color=%233399ff" width="28" height="28" /> Hi 👋, I'm Phạm Đức Hòa</h1>
+ <h1 align="center"><img src="https://api.iconify.design/fa6-solid/hand.svg?color=%233399ff" width="28" height="28" /> Hi 👋, I'm Pham Duc Hoa</h1>
 <h3 align="center"><img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=%233399ff" width="22" height="22" /> Software Engineering Student | Yersin University</h3>
 
 <p align="center">
