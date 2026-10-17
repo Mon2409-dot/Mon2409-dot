@@ -22,8 +22,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Mon2409-dot
-          outputs: |
-            dist/github-snake.svg?color_snake=#3399ff&color_dots=#0d1117,#102a43,#174a7e,#2678bd,#58a6ff
+outputs: |
+  dist/github-snake.svg?color_snake=%233399ff&color_dots=%230d1117,%23102a43,%23174a7e,%232678bd,%2358a6ff
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
